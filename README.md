@@ -1,2 +1,2 @@
 # archisacademy
-Initial project
+This is an initial readme for this project
